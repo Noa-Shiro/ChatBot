@@ -1,0 +1,6 @@
+#archivos que no subiremos
+
+#ignoramos la carpeta .streamlit
+.streamlit
+
+#poner en la terminar "requirements.txt"
